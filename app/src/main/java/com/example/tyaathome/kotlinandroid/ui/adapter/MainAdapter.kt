@@ -1,9 +1,9 @@
-package com.example.tyaathome.kotlinandroid
+package com.example.tyaathome.kotlinandroid.ui.adapter
 
 import android.support.v7.widget.RecyclerView
 import android.view.ViewGroup
 import android.widget.TextView
-import com.example.tyaathome.kotlinandroid.MainAdapter.ViewHolder
+import com.example.tyaathome.kotlinandroid.ui.adapter.MainAdapter.ViewHolder
 
 /**
  * Created by tyaathome on 2017/5/22.
